@@ -1,5 +1,3 @@
-# List
-<sub>_Isaiah Auste_</sub>
 #### #1
 #### #2
 #### #3
