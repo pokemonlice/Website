@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme #
-title: my five favorite songs
-description: these are isaiah auste's (12th grade, ap computer science, period 2, mr marchant's class) five favorite songs
+title: isaiah auste's 5 favorite songs
+description: "these are my 5 favorite songs" -isaiah auste
