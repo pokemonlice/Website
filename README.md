@@ -32,4 +32,4 @@ This song was written by the all-teenage-girl band Plumtree, the same band that 
 #### #5 [Excruciating Deth - Machine Girl](https://machinegirl.bandcamp.com/track/excruciating-deth-phase)
 ![image](https://user-images.githubusercontent.com/114511278/193736492-bb87efe4-a89f-404e-ba55-d6744e53cead.png)
 
-I listen to this song when I do laundry, chores, walk my dog. Machine Girl is an... acquired taste that you have to get used to. I think you'd like this song if you have to do jumping jacks before sitting down to do your homework like me.
+I listen to this song when I do laundry, chores, walk my dog. Machine Girl is an... acquired taste. I think you'd like this song if you have to do jumping jacks doing your homework like me.
